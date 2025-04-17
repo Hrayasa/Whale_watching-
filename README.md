@@ -56,8 +56,8 @@ whale_watch/
 ## Data Sources
 
 - OBIS-SEAMAP database
-- NOAA environmental data (optional)
-- NASA satellite data (optional)
+- NOAA environmental data 
+- NASA satellite data 
 
 ## License
 
